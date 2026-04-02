@@ -51,8 +51,8 @@ Performed analysis using SQL to answer key business questions:
 ---
 
 ## 🔍 Data Quality & Profit Analysis
-- Identified 1800+ loss-making transactions  
-- Calculated total loss (~156K)  
+- Identified 1800+ loss-making transactions using Order_Items table  
+- Calculated total loss (~156K) using raw transaction data 
 - Analyzed:
   - Loss by category  
   - Loss trends over time  

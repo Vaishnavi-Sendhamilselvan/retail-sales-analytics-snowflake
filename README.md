@@ -46,6 +46,7 @@ Performed analysis using SQL to answer key business questions:
 📌 **Key Learning:** AI improves speed, but manual validation is essential for accuracy.
 
 - Screenshots of manual vs AI query comparison are included in the project for validation.
+- Validation was performed by comparing outputs of manual SQL queries with AI-generated queries.
   
 ---
 

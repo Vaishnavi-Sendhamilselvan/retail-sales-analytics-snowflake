@@ -45,6 +45,8 @@ Performed analysis using SQL to answer key business questions:
 
 📌 **Key Learning:** AI improves speed, but manual validation is essential for accuracy.
 
+- Screenshots of manual vs AI query comparison are included in the project for validation.
+  
 ---
 
 ## 🔍 Data Quality & Profit Analysis
@@ -59,9 +61,9 @@ Performed analysis using SQL to answer key business questions:
 ---
 
 ## 📁 Project Structure
-- data/ → CSV files (structured datasets)
-- sql/ → SQL queries for analysis
-- docs/ → Project documentation
+- data/ → CSV files (structured datasets)  
+- sql/ → SQL queries for modeling and analysis  
+- docs/ → Project documentation and notes  
 
 ---
 

@@ -62,6 +62,29 @@ Performed analysis on:
 📌 **Key Insight:** High sales does not always result in profit.
 
 ---
+## 📊 Final Business Recommendations
+
+Based on the analysis:
+
+- 🔴 **Loss-making transactions:**  
+  A significant number of transactions are generating negative profit. Review discount strategies and pricing for these cases.
+
+- 📉 **Category-level losses:**  
+  Certain product categories consistently show losses. These categories need pricing adjustments or cost optimization.
+
+- 📅 **Seasonal trends:**  
+  Profit and sales trends vary over time. Businesses should align promotions and inventory planning with high-performing periods.
+
+- 🧾 **Customer insights:**  
+  Top customers contribute significantly to revenue. Focus on retention strategies like loyalty programs.
+
+- ⚠️ **Data quality importance:**  
+  Validating data (raw vs modeled) is critical to ensure accurate business decisions.
+
+📌 **Overall Insight:**  
+High sales does not always guarantee profit — profitability analysis is essential for sustainable growth.
+
+---
 
 ## 📁 Project Structure
 - data/ → CSV files (structured datasets)  

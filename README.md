@@ -86,6 +86,26 @@ High sales does not always guarantee profit — profitability analysis is essent
 
 ---
 
+## 📊 Tableau Dashboard
+
+🔹 Main Dashboard  
+👉 https://public.tableau.com/app/profile/vaishnavi.sendhamilselvan/viz/RetailSalesAnalysisDashboard_17750422572980/RetailSalesAnalysisDashboard
+
+---
+
+## 📈 Supporting Visualizations
+
+- Profit vs Loss Analysis  
+👉 https://public.tableau.com/app/profile/vaishnavi.sendhamilselvan/viz/RetailSalesAnalysis_ProfitLossAnalysis/ProfitLossAnalysis  
+
+- Monthly Sales Trend  
+👉 https://public.tableau.com/app/profile/vaishnavi.sendhamilselvan/viz/RetailSalesAnalysis_MonthlySalesTrend/MonthlySalesTrend  
+
+- Sales by Category  
+👉 https://public.tableau.com/app/profile/vaishnavi.sendhamilselvan/viz/RetailSalesAnalysis_SalesbyCategory/SalesbyCategory
+
+---
+
 ## 📁 Project Structure
 - data/ → CSV files (structured datasets)  
 - sql/ → SQL queries for modeling and analysis  

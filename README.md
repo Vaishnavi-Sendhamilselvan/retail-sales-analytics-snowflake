@@ -1,7 +1,11 @@
 # 📊 Retail Sales Analytics Project
 
 ## 🚀 Overview
-This project demonstrates an end-to-end data analytics workflow using real-world retail data. It focuses on data modeling, SQL-based analysis, and AI-assisted query validation to generate meaningful business insights.
+This project presents a retail analytics solution focused on validating AI-generated SQL queries against manually written logic. The objective is to ensure data accuracy, identify discrepancies in query results, and uncover key profitability issues.
+
+The analysis combines structured data modeling in Snowflake, SQL-based validation techniques, and business-oriented exploration to evaluate how differences in query logic can impact insights and decision-making.
+
+Supporting visualizations were created using Tableau to reinforce findings and highlight patterns in sales and profit performance.
 
 ---
 
